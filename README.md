@@ -13,3 +13,13 @@ El objetivo es aplicar técnicas de **Análisis Exploratorio de Datos (EDA)** y 
 - **Python**  
 - **Keras** y **TensorFlow**  
 - **Pandas, NumPy, Matplotlib, Seaborn**  
+
+## 📌 Referencias  
+- [Concrete Compressive Strength Data Set](https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength)  
+- [Keras Documentation](https://keras.io/)  
+
+---  
+
+✍️ **Autor:** Jhon Hander Mejia Muñoz
+📅 **Fecha:** Marzo 2025  
+📧 **Contacto:** jhmejia@correo.iue.edu.co
