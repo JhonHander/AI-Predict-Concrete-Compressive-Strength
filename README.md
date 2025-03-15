@@ -1,7 +1,7 @@
 # 📌 Predicción de la Resistencia a la Compresión del Concreto con MLP  
 
 Este miniproyecto implementa un **Perceptrón Multicapa (MLP)** utilizando el conjunto de datos **Concrete Compressive Strength Data Set**.  
-El objetivo es aplicar técnicas de **Análisis Exploratorio de Datos (EDA)** y optimización de **hiperparámetros** en **Keras** para mejorar el rendimiento del modelo.  
+El objetivo es aplicar técnicas de **Análisis Exploratorio de Datos (EDA)** y optimización de **hiperparámetros** de la MLP del framework **TensorFlow** en **Keras** para mejorar el rendimiento del modelo.  
 
 ## 📊 Características principales  
 - 🔍 **EDA detallado**: Análisis estadístico y visualización de datos.  
