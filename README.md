@@ -1,2 +1,15 @@
-# AI-Predict-Concrete-Compressive-Strength
-Implementación de un Perceptrón Multicapa (MLP) en el Concrete Compressive Strength Data Set. Se incluyen técnicas de Análisis Exploratorio de Datos (EDA) y ajuste de hiperparámetros usando Keras para optimizar el rendimiento del modelo
+# 📌 Predicción de la Resistencia a la Compresión del Concreto con MLP  
+
+Este miniproyecto implementa un **Perceptrón Multicapa (MLP)** utilizando el conjunto de datos **Concrete Compressive Strength Data Set**.  
+El objetivo es aplicar técnicas de **Análisis Exploratorio de Datos (EDA)** y optimización de **hiperparámetros** en **Keras** para mejorar el rendimiento del modelo.  
+
+## 📊 Características principales  
+- 🔍 **EDA detallado**: Análisis estadístico y visualización de datos.  
+- 🧠 **Implementación de MLP**: Predicción de la resistencia a la compresión del concreto.  
+- ⚙️ **Optimización de hiperparámetros**: Ajuste de capas, funciones de activación y optimizadores.  
+- 📈 **Evaluación del modelo**: Comparación de métricas y visualización de resultados.  
+
+## 🛠 Tecnologías utilizadas  
+- **Python**  
+- **Keras** y **TensorFlow**  
+- **Pandas, NumPy, Matplotlib, Seaborn**  
